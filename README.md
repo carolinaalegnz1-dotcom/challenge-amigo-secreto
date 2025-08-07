@@ -9,7 +9,6 @@ Este proyecto es una aplicación web simple para organizar sorteos de "Amigo Sec
 *   [Dependencias](#dependencias)
 *   [Posibles Problemas y Soluciones](#posibles-problemas-y-soluciones)
 *   [Créditos](#créditos)
-*   [Licencia](#licencia)
 
 ## Descripción
 

@@ -1,4 +1,4 @@
-# challenge-amigo-secreto
+# Challenge Amigo Secreto
 Este proyecto es una aplicación web simple para organizar sorteos de "Amigo Secreto" entre amigos. Permite agregar nombres a una lista, validar que no haya duplicados y sortear un amigo de manera aleatoria.
 
 ## Tabla de Contenidos
